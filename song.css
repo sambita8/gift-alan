@@ -1,0 +1,23 @@
+header {font-size: 20px; font-family: monospace; text-align: center ; font-weight: 400;
+text-decoration: wavy;}
+
+p {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: italic; }
+
+img {border: 3px black ridge;}
+
+div {margin: 20px 20px 0px 20px; padding-left: 10px; padding-right: 10px;
+display: inline-block;}
+
+.para {text-align: left; position: relative; height: 300px; width: 150px;}
+#conan {bottom: 100px;}
+#jake {bottom: 40px;}
+#billie {bottom: 80px}
+#dhruv {bottom: 100px;}
+#teen {bottom: 60px;}
+#okinawa {bottom: 40px;}
+#cults {bottom: 50px;}
+#bts {bottom:50px;}
+#grace {bottom: 40px; width: 600px;}
+
+#foot { border: 2px black solid; text-align: center; background-color: black; color: aliceblue;}
+#head {border: 2px black solid; text-align: center;background-color: black; color: aliceblue; }

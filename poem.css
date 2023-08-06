@@ -1,0 +1,22 @@
+ p {white-space: pre-wrap; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-style: italic; font-size: large; font-weight: 500;color: aliceblue;}
+
+ header {font-size: 20px; font-family: monospace; text-align: center ; font-weight: 400;
+    color: black; border: 3px white solid; background-color: white;}
+
+ div{display: inline-block; white-space: pre-wrap; width: 500px; font-size: 20px;
+color: aliceblue; padding-left: 60px; margin-right: 40px; margin-left: 10px; }
+
+ #b18 { position: relative; bottom: 80px;} #xx {position: relative; bottom: 70px;}
+ #monster {position: relative; top:30px;}
+
+ h4 {color: black; font-size:20px; text-align: center;
+border: 3px white solid; background-color: white;}
+
+.note {border: 3px white solid; position: static; font-size: 15px;}
+ 
+#foot {font-size: 20px; font-family: monospace; text-align: center ; font-weight: 400;
+    color: black; border: 3px white solid; background-color: white;}
+
+
+    

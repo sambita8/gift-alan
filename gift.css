@@ -1,0 +1,28 @@
+body{background-image: url(https://i.pinimg.com/564x/f4/26/12/f42612e9b0f025dfeb58d2166108585b.jpg);
+    background-repeat: unset; background-size: contain;}
+
+    header{font-size: 35px; font-style: italic; color: black;
+         text-align: center; font-family: Arial, Helvetica, sans-serif;}
+
+    div{margin-left: 100px; margin-right: 105px;}
+        #song {width:300px; height: 138px; background-image: url(https://i.pinimg.com/564x/c1/57/b2/c157b2404e74da885a64270da42bfacd.jpg); display: inline-block;
+        border: 1px grey solid; margin-top: 50px; background-size: cover;}
+
+        p{ font-family: cursive; 
+        color: black;}
+
+       
+        #memories{background-image: url(https://i.pinimg.com/564x/cd/2d/b4/cd2db4928be4af8cc064c90d2dc8fdc7.jpg); display: inline-block; margin-top: 50px;
+        width: 300px; height: 138px; border:1px beige solid; background-repeat: initial;}
+
+        #poem {width: 300px; height: 138px; border:1px whitesmoke solid; background-repeat: initial;
+        margin-top: 50px;  background-image: url(https://i.pinimg.com/564x/69/31/48/693148d59fe453e82faffe952c2cdf30.jpg); display: inline-block;
+        margin-left: 200px;}
+
+        #letter {background-image: url(https://i.pinimg.com/564x/e4/2b/37/e42b37f390eb8680b563ccd7a6cc296b.jpg); display: inline-block;
+        width: 300px; height: 138px; border:1px whitesmoke solid; background-repeat: initial;
+        margin-top: 50px;  }
+
+
+        a{color: black; font-size: 30px;text-align: center; margin: 145px; text-decoration: none;}
+        
